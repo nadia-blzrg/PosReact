@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PosReact/static/css/main.48c825d0.css",
+    "main.js": "/PosReact/static/js/main.eba60f19.js",
+    "static/media/qivo2.svg": "/PosReact/static/media/qivo2.c6e183bd4d2742e6634e9a589d6969ab.svg",
+    "index.html": "/PosReact/index.html",
+    "main.48c825d0.css.map": "/PosReact/static/css/main.48c825d0.css.map",
+    "main.eba60f19.js.map": "/PosReact/static/js/main.eba60f19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c825d0.css",
+    "static/js/main.eba60f19.js"
+  ]
+}
