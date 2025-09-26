@@ -1,0 +1,86 @@
+/* 🌆 Container principal */
+.info-pos-container {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: #3e2163;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 🎨 Fond avec image */
+.info-pos-bg {
+  height: 100%;
+  background-image: url("https://raw.githubusercontent.com/nadia-blzrg/i-YusrImages/refs/heads/main/gradient.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+/* 📦 Carte */
+.info-pos-card {
+  width: 100%;
+  max-width: 600px;
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px white;
+}
+
+/* 🏷️ Titre */
+.info-pos-title {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* 📋 Table */
+.info-pos-table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.info-pos-table td {
+  padding: 10px;
+}
+
+.info-pos-label {
+  font-weight: bold;
+}
+
+/* 🔗 Lien Google Maps */
+.info-pos-link {
+  color: #51b7b0;
+  text-decoration: none;
+}
+
+.info-pos-link:hover {
+  text-decoration: underline;
+}
+
+/* 🔙 Bouton retour */
+.info-pos-back {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.info-pos-back a {
+  display: inline-block;
+  background: #fff;
+  color: #3c0366;
+  padding: 10px 20px;
+  border-radius: 999px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.info-pos-back a:hover {
+  background: #51b7b0;
+  color: white;
+}
